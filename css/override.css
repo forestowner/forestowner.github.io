@@ -12,6 +12,9 @@ header, footer {
 body {
     background-color: #11100c; 
     color: #f5ede1; 
+    font-family: 'Roboto', sans-serif;
+}
+
 }
 
 a {
