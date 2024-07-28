@@ -22,6 +22,14 @@ a:hover {
     color: #b1c5eb; 
 }
 
+nav, nav a {
+    color: #f5ede1 
+}
+
+.header-title, .site-title {
+    color: #f5ede1 
+}
+
 .post_navi {
     background-color: #11100c; 
     color: #f5ede1; 
@@ -38,6 +46,10 @@ a:hover {
     width: 50%;
     position: relative;
     color: #f5ede1 !important; 
+}
+
+.post_navi, .post_navi a {
+    color: #f5ede1
 }
 
 .post_navi .nav_prev {
