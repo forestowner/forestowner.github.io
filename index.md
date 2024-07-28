@@ -2,7 +2,7 @@
 
 ## Introduction
 Hello, my name is Hanna!
-![Me,  if I was black and white with a hint of blue](index%20images/IMG_5260.jpeg)
+![Me,  if I was black and white with a hint of blue](index images/IMG_5260.jpeg)
 ***
 I love technology and I’m passionate about cybersecurity.I hold a master's degree in cybersecurity and currently work as a full-stack developer.
 
