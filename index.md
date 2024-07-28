@@ -4,7 +4,9 @@
 Hello, my name is Hanna!
 
 ![Me,  if I was black and white with a hint of blue](index%20images/1.jpeg)
+
 ***
+
 I love technology and I’m passionate about cybersecurity.I hold a master's degree in cybersecurity and currently work as a full-stack developer.
 
 I am trying to keep up with the progress, so I made this blog to break down complex things for my future readers and most importantly for myself.
@@ -12,8 +14,10 @@ I am trying to keep up with the progress, so I made this blog to break down comp
 My motto is that it's possible to explain complex things in simple terms. I'm going to be careful with these words, but before you come after me - I just want to say that I'm young, ambitious, resourceful, introverted, and I have a LOT of free time.
 
 > *You want to learn something? Teach it to somebody!*
-> 
+>
+
 ***
+
 ## Rules
 
 I am writing about tech tips, diving deep into topics or giving opinionated reviews
