@@ -3,7 +3,7 @@
 ## Introduction
 
 ![Me,  if I was black and white with a hint of blue
-Author: me]!(index_images/IMG_5260.jpeg)
+Author: me]!(index%20images/IMG_5260.jpeg)
 
 Me,  if I was black and white with a hint of blue
 Author: me
