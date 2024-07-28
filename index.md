@@ -2,7 +2,7 @@
 
 ## Introduction
 Hello, my name is Hanna!
-![Me,  if I was black and white with a hint of blue](index images/IMG_5260.jpeg)
+![Me,  if I was black and white with a hint of blue](index%20images/1.jpeg)
 ***
 I love technology and I’m passionate about cybersecurity.I hold a master's degree in cybersecurity and currently work as a full-stack developer.
 
@@ -21,7 +21,7 @@ I measure the complexity of each topics with ducks aka “duck levels”.
 
 I encourage feedback and I would love to see you working with me by “debugging with the duck” method
 
-![Duck llustration](index%20images/Untitled_-_27_April_2024_18.06.52.png)
+![Duck llustration](index%20images/2.png)
 
 
 🦆 For example, entering a virtual environment for ethical hacking practice is something that requires explanation. That would be like 3 ducks.
