@@ -1,81 +1,101 @@
-hr {
-  margin-top: 30px;
-  margin-bottom: 20px;
-  border-color: #f5ede1;
-}
-
-header, footer {
-    background-color: #11100c; 
-    color: #f5ede1; 
-}
-
-body {
-    background-color: #11100c; 
-    color: #f5ede1; 
-    font-family: 'Roboto', sans-serif;
-}
-
-}
-
-a {
-    color: #fe3519; 
-}
-
-a:hover {
-    color: #b1c5eb; 
-}
-
+/* Nav bar text */
 nav, nav a {
-    color: #f5ede1 
+    color: #ffffff !important; /* White color for nav bar text */
+    text-decoration: none !important; /* Remove underline from links */
 }
 
+/* Background color for nav bar */
+nav {
+    background-color: #11100c !important; /* Main background color */
+}
+
+/* Remove default list styling for nav items */
+nav ul {
+    list-style: none !important;
+    padding: 0 !important;
+}
+
+/* Display nav items inline with spacing */
+nav li {
+    display: inline !important;
+    margin-right: 20px !important;
+}
+
+/* Blog title */
 .header-title, .site-title {
-    color: #f5ede1 
+    color: #ffffff !important; /* White color for blog title */
 }
 
-.post_navi {
-    background-color: #11100c; 
-    color: #f5ede1; 
+/* Setting font for the entire site */
+body {
+    font-family: 'YourPreferredFont', sans-serif !important; /* Set your preferred font here */
 }
 
+/* Ensuring other elements follow the desired color scheme */
+body {
+    background-color: #11100c !important; /* Main background color */
+    color: #f5ede1 !important; /* Complementary text color */
+}
+
+/* Accent color for links */
+a {
+    color: #fe3519 !important;
+}
+
+/* Another accent color for hovered links */
+a:hover {
+    color: #b1c5eb !important;
+}
+
+/* Main color for header and footer */
+header, footer {
+    background-color: #11100c !important;
+    color: #f5ede1 !important;
+}
+
+/* Complementary color for horizontal rules */
+hr {
+    border-color: #f5ede1 !important;
+}
+
+/* Ensuring post navigation labels are styled correctly */
 .post_navi-label {
-    font-size: 0.8em;
-    opacity: 0.8;
-    color: #f5ede1; 
+    font-size: 0.8em !important;
+    opacity: 0.8 !important;
 }
 
+/* Styling post navigation items */
 .post_navi .post_navi-item {
-    padding: 0 2.2em;
-    width: 50%;
-    position: relative;
-    color: #f5ede1 !important; 
+    padding: 0 2.2em !important;
+    width: 50% !important;
+    position: relative !important;
 }
 
-.post_navi, .post_navi a {
-    color: #f5ede1
-}
-
+/* Aligning previous navigation item to the left */
 .post_navi .nav_prev {
-    text-align: left;
+    text-align: left !important;
 }
 
+/* Aligning next navigation item to the right */
 .post_navi .nav_next {
-    text-align: right;
+    text-align: right !important;
 }
 
+/* Positioning navigation arrows */
 .post_navi .nav_prev .post_navi-arrow {
-    left: 0;
+    left: 0 !important;
 }
 
 .post_navi .nav_next .post_navi-arrow {
-    right: 0;
+    right: 0 !important;
 }
 
+/* Styling navigation arrows */
 .post_navi .post_navi-arrow {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    font-size: 2.5em;
-    opacity: 0.3;
-    color: #fe3519; 
+    position: absolute !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    font-size: 2.5em !important;
+    opacity: 0.3 !important;
+    color: #fe3519 !important; /* Accent color for navigation arrows */
 }
