@@ -7,6 +7,7 @@ Hello, my name is Hanna!⼥
 
 ***
 
+
 I love technology👽 and I’m passionate about infosec👩‍💻.I hold a master's degree in cybersecurity and currently work as a full-stack developer at a startup🚀.
 
 This blog is a part of my cybersecurity projects portfolio, they should be at my github page
